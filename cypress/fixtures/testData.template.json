@@ -1,0 +1,11 @@
+{
+    "login": {
+        "username": "your-email@example.com",
+        "password": "your-password"
+    },
+    "useCase2": {
+        "learningInstanceName": "Test Learning Instance",
+        "userDefinedFieldName": "testField",
+        "userDefinedFieldLabel": "Test Field Label"
+    }
+} 
