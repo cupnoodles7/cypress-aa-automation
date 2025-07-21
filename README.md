@@ -60,8 +60,6 @@ cypress-aa-automation/
 
 ## 🔒 Security Notes
 
-⚠️ **IMPORTANT**: Never commit your actual credentials to version control!
-
 - The `testData.json` file is excluded from git via `.gitignore`
 - Use the `testData.template.json` as a reference for the required structure
 - Consider using environment variables for production deployments
